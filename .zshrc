@@ -129,7 +129,7 @@ alias mv='mv -i'
  
 alias mkdir='mkdir -p'
 alias emacs='emacs-24.4'
-alias vim='/usr/local/Cellar/macvim/7.4-76/MacVim.app/Contents/MacOS/MacVim'
+#alias vim='/usr/local/Cellar/macvim/7.4-76/MacVim.app/Contents/MacOS/MacVim'
 alias galaxymount='sshfs tachibana@galaxy: /Users/ryosuke/Mount_galaxy'
 # sudo の後のコマンドでエイリアスを有効にする
 alias sudo='sudo '
