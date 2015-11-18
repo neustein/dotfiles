@@ -13,7 +13,7 @@ $ ./copy_to_home.sh
 When you modified '.vimrc','.tmux.conf' or '.zshrc', you have to implement
 ```
 $ cd
-$ ./push_git_dotfiles.sh
+$ ./push_git_dotfiles.sh "messege"
 ```
 to push these files to github repository.
 
