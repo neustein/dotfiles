@@ -11,3 +11,5 @@ set whichwrap=b,s,h,l,<,>,[,]
 set mouse=a
 "set ttymouse=xterm2
 set background=dark
+set t_Co=256
+colorscheme molokai

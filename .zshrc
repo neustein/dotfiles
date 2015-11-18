@@ -165,3 +165,8 @@ case ${OSTYPE} in
 esac
  
 # vim:set ft=zsh:
+
+
+function _ssh {
+    compadd `fgrep 'Host ' ~/.ssh/config | awk '{print $2}' | sort`;
+}
