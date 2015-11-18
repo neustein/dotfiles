@@ -12,4 +12,15 @@ set mouse=a
 "set ttymouse=xterm2
 set background=dark
 set t_Co=256
-colorscheme molokai
+
+"great
+colorscheme railscasts
+"great
+"colorscheme jellybeans
+"good
+"colorscheme molokai 
+"good
+""colorscheme hybrid
+"good
+"colorscheme lucius
+
