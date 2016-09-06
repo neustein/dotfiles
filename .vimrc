@@ -1,8 +1,12 @@
+" show column number
 set number
 set laststatus=2
 set smarttab
+" convert tab to space
 set expandtab
+" seemed tab width on file
 set tabstop=4
+" number of paces when indent applied like >>
 set shiftwidth=4
 syntax on
 set clipboard=unnamed,autoselect
@@ -12,6 +16,17 @@ set mouse=a
 "set ttymouse=xterm2
 set background=dark
 "set t_Co=256
+set cursorline
+" show corresponding paren/brace/bracket
+set showmatch
+" time to show corresponding paren/brace/bracket
+set matchtime=4
+" paren/brace/bracket plus < and >
+set matchpairs& matchpairs+=<:>
+" show inputting command like 'y'
+set showcmd
+" can go to space where caractors not exist
+set virtualedit=all
 
 "great
 colorscheme railscasts
