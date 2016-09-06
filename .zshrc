@@ -5,8 +5,11 @@
 ########################################
 # 環境変数
 export LANG=ja_JP.UTF-8
-export PYTHONPATH=/usr/local/lib/python2.7/site-packages/
+#export PYTHONPATH=Library/Python/2.7/site-packages:/usr/local/lib/python2.7/site-packages/
 export PATH=/usr/local/bin:$PATH
+export PYENV_ROOT=$HOME/.pyenv
+export PATH=$PYENV_ROOT/bin:$PATH
+eval "$(pyenv init -)"
  
 # 色を使用出来るようにする
 autoload -Uz colors
