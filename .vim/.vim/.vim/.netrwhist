@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/ryosuke/vim_yassan'
-let g:netrw_dirhist_2='/Users/ryosuke/Documents/deep'
-let g:netrw_dirhist_3='/Users/ryosuke/Git/dotfiles'
-let g:netrw_dirhist_4='/Users/ryosuke/BACKUP/2015年 10月29日 木曜日 21時36分08秒 JST'

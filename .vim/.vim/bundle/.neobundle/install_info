@@ -1,2 +1,0 @@
-3.0
-{'jedi-vim': {'checked_time': 1472392218, 'installed_uri': 'https://github.com/davidhalter/jedi-vim.git', 'installed_path': '/Users/ryosuke/.vim/bundle/jedi-vim', 'revisions': {'1471465932': '443e7fe555dcbd6e08a0b9e235c06f3f0cc309a4'}, 'updated_time': '1471465932'}, 'neobundle.vim': {'checked_time': 1440836601, 'installed_uri': 'https://github.com/Shougo/neobundle.vim.git', 'installed_path': '/Users/ryosuke/.vim/bundle/neobundle.vim', 'revisions': {}, 'updated_time': 1440836601}}
