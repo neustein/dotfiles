@@ -26,7 +26,7 @@ set matchpairs& matchpairs+=<:>
 " show inputting command like 'y'
 set showcmd
 " can go to space where caractors not exist
-set virtualedit=all
+"set virtualedit=all
 
 "great
 colorscheme railscasts
