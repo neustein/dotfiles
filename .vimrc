@@ -27,6 +27,8 @@ set matchpairs& matchpairs+=<:>
 set showcmd
 " can go to space where caractors not exist
 "set virtualedit=all
+"
+let g:seiya_auto_enable=1
 
 "great
 colorscheme railscasts
@@ -61,6 +63,7 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " 今後このあたりに追加のプラグインをどんどん書いて行きます！！"
 NeoBundle 'davidhalter/jedi-vim'
 NeoBundle 'kevinw/pyflakes-vim'
+NeoBundle 'miyakogi/seiya.vim'
 call neobundle#end()
  
 " Required:
