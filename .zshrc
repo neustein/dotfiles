@@ -6,7 +6,7 @@
 # 環境変数
 export LANG=ja_JP.UTF-8
 #export PYTHONPATH=Library/Python/2.7/site-packages:/usr/local/lib/python2.7/site-packages/
-export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/bin:$PATH:/home/tachibana/bin
 export PYENV_ROOT=$HOME/.pyenv
 export PATH=$PYENV_ROOT/bin:$PATH
 eval "$(pyenv init -)"
